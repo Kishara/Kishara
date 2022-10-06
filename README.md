@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm kishara buddika</h1>
+<h1 align="center">I'm Kishara Buddika</h1>
 <h3 align="center">Graduated from SLIIT | JAVA | SQL | C | RESTful | Front End | Back End | Blogger</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kisharabuddika98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kisharabuddika98/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/kisharabuddika98/](https://www.linkedin.com/in/kisharabuddika98/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kisharabuddika98/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
